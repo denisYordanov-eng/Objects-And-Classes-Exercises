@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Exercises\Objects-And-Classes-Exercises\02-AdvertisementMessage\bin\Debug\02-AdvertisementMessage.exe.config
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Exercises\Objects-And-Classes-Exercises\02-AdvertisementMessage\bin\Debug\02-AdvertisementMessage.exe
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Exercises\Objects-And-Classes-Exercises\02-AdvertisementMessage\bin\Debug\02-AdvertisementMessage.pdb
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Exercises\Objects-And-Classes-Exercises\02-AdvertisementMessage\obj\Debug\02-AdvertisementMessage.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Exercises\Objects-And-Classes-Exercises\02-AdvertisementMessage\obj\Debug\02-AdvertisementMessage.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Exercises\Objects-And-Classes-Exercises\02-AdvertisementMessage\obj\Debug\02-AdvertisementMessage.exe
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Exercises\Objects-And-Classes-Exercises\02-AdvertisementMessage\obj\Debug\02-AdvertisementMessage.pdb

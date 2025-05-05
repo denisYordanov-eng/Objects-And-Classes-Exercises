@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Exercises\Objects-And-Classes-Exercises\04-AverageGrades\bin\Debug\04-AverageGrades.exe.config
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Exercises\Objects-And-Classes-Exercises\04-AverageGrades\bin\Debug\04-AverageGrades.exe
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Exercises\Objects-And-Classes-Exercises\04-AverageGrades\bin\Debug\04-AverageGrades.pdb
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Exercises\Objects-And-Classes-Exercises\04-AverageGrades\obj\Debug\04-AverageGrades.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Exercises\Objects-And-Classes-Exercises\04-AverageGrades\obj\Debug\04-AverageGrades.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Exercises\Objects-And-Classes-Exercises\04-AverageGrades\obj\Debug\04-AverageGrades.exe
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Exercises\Objects-And-Classes-Exercises\04-AverageGrades\obj\Debug\04-AverageGrades.pdb

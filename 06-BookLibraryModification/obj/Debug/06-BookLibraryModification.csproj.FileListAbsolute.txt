@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Exercises\Objects-And-Classes-Exercises\06-BookLibraryModification\bin\Debug\06-BookLibraryModification.exe.config
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Exercises\Objects-And-Classes-Exercises\06-BookLibraryModification\bin\Debug\06-BookLibraryModification.exe
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Exercises\Objects-And-Classes-Exercises\06-BookLibraryModification\bin\Debug\06-BookLibraryModification.pdb
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Exercises\Objects-And-Classes-Exercises\06-BookLibraryModification\obj\Debug\06-BookLibraryModification.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Exercises\Objects-And-Classes-Exercises\06-BookLibraryModification\obj\Debug\06-BookLibraryModification.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Exercises\Objects-And-Classes-Exercises\06-BookLibraryModification\obj\Debug\06-BookLibraryModification.exe
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Exercises\Objects-And-Classes-Exercises\06-BookLibraryModification\obj\Debug\06-BookLibraryModification.pdb

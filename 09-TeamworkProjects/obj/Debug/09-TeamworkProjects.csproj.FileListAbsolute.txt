@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Exercises\Objects-And-Classes-Exercises\09-TeamworkProjects\obj\Debug\09-TeamworkProjects.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Exercises\Objects-And-Classes-Exercises\09-TeamworkProjects\obj\Debug\09-TeamworkProjects.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Exercises\Objects-And-Classes-Exercises\09-TeamworkProjects\bin\Debug\09-TeamworkProjects.exe.config
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Exercises\Objects-And-Classes-Exercises\09-TeamworkProjects\bin\Debug\09-TeamworkProjects.exe
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Exercises\Objects-And-Classes-Exercises\09-TeamworkProjects\bin\Debug\09-TeamworkProjects.pdb
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Exercises\Objects-And-Classes-Exercises\09-TeamworkProjects\obj\Debug\09-TeamworkProjects.exe
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Exercises\Objects-And-Classes-Exercises\09-TeamworkProjects\obj\Debug\09-TeamworkProjects.pdb

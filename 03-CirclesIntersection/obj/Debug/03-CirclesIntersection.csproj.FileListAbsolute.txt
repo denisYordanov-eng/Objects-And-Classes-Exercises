@@ -1,0 +1,7 @@
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Exercises\Objects-And-Classes-Exercises\03-CirclesIntersection\bin\Debug\03-CirclesIntersection.exe.config
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Exercises\Objects-And-Classes-Exercises\03-CirclesIntersection\bin\Debug\03-CirclesIntersection.exe
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Exercises\Objects-And-Classes-Exercises\03-CirclesIntersection\bin\Debug\03-CirclesIntersection.pdb
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Exercises\Objects-And-Classes-Exercises\03-CirclesIntersection\obj\Debug\03-CirclesIntersection.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Exercises\Objects-And-Classes-Exercises\03-CirclesIntersection\obj\Debug\03-CirclesIntersection.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Exercises\Objects-And-Classes-Exercises\03-CirclesIntersection\obj\Debug\03-CirclesIntersection.exe
+C:\Users\Laptop\Desktop\C#\ObjectsAndClasses-Exercises\Objects-And-Classes-Exercises\03-CirclesIntersection\obj\Debug\03-CirclesIntersection.pdb
